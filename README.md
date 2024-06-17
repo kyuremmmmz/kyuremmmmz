@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian David Jasmin</h1>
 <h3 align="center">A passionate IT student from PH</h3>
-<img align="right" alt="ako" with="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyuremmmmz&label=Profile%20views&color=0e75b6&style=flat" alt="kyuremmmmz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyuremmmmz" alt="kyuremmmmz" /></a> </p>
