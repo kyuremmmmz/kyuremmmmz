@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian David Jasmin</h1>
 <h3 align="center">A passionate IT student aspiring software engineer soon.</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=kyuremmmmz&label=Profile%20views&color=0e75b6&style=flat](https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-6/457181471_1039164394510334_9035592213589991709_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF0Z4wDA1F-saAGzALulSDBBdpCgjhCVEAF2kKCOEJUQBxOa6uL-VssxK9Idwizx7qlDbjC8diJjZXvmsxj7xFg&_nc_ohc=uLQc85l3rxcQ7kNvgGae1RN&_nc_ht=scontent.fcrk4-1.fna&_nc_gid=AK8aBqM8p6LCo2XnKSn_FI6&oh=00_AYCGCNCcvre70g72AAnuCv4Kz5HbsjsASe3ALdAFe43HZw&oe=6722EFCF)" alt="kyuremmmmz" /> </p>
+<p align="left"> <img src="https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-6/457181471_1039164394510334_9035592213589991709_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF0Z4wDA1F-saAGzALulSDBBdpCgjhCVEAF2kKCOEJUQBxOa6uL-VssxK9Idwizx7qlDbjC8diJjZXvmsxj7xFg&_nc_ohc=uLQc85l3rxcQ7kNvgGae1RN&_nc_ht=scontent.fcrk4-1.fna&_nc_gid=AK8aBqM8p6LCo2XnKSn_FI6&oh=00_AYCGCNCcvre70g72AAnuCv4Kz5HbsjsASe3ALdAFe43HZw&oe=6722EFCF" alt="kyuremmmmz" /> </p>
 
 - 🔭 I’m currently working on **BIMS, Android, BlogSites**
 
