@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyuremmmmz&label=Profile%20views&color=0e75b6&style=flat" alt="kyuremmmmz" /> </p>
 
 
-- 🔭 I’m currently working on **BIMS, Android, BlogSites**
+- 🔭 I’m currently working on **Final Project, Android, CMS, Client Project Deployments**
 
 - 🌱 I’m currently learning **Azure, AWS, React Native**
 
