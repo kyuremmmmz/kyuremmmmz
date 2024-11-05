@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **BIMS, Android, BlogSites**
 
-- 🌱 I’m currently learning **Deployment, React Native, Supabase**
+- 🌱 I’m currently learning **Deployment, React Native, Express js**
 
 - 👯 I’m looking to collaborate on **Unity game project**
 
-- 🤝 I’m looking for help with **CMS**
+- 🤝 I’m looking for help with **CMS, Money Finity app**
 
 - 💬 Ask me about **Vue JS, next.js, laravel**
 
