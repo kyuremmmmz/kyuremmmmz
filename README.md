@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyuremmmmz" alt="kyuremmmmz" /></a> </p>
 
-- 🔭 I’m currently working on **BIMS, Android, BlogSites**
+- 🔭 I’m currently working on **IOS/Android project**
 
-- 🌱 I’m currently learning **Deployment, React Native, Supabase**
+- 🌱 I’m currently learning **Next js and Flutter**
 
 - 👯 I’m looking to collaborate on **Unity game project**
 
