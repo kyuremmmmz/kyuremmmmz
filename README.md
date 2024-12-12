@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **Unity game project**
 
 - 🤝 I’m looking for help with **CMS**
-- 
+  
 - 📫 How to reach me **kurosawataki84@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
