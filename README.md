@@ -8,7 +8,7 @@ I'm currently studying and working on various projects in the tech field. My pas
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=figma,firebase,flutter,tensorflow,dart,ts,js,nextjs,nodejs,express,androidstudio,supabase,arduino,html,css,mysql,mongodb,react,tailwind,bootstrap,php,laravel,py,vscode,git&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,firebase,flutter,tensorflow,dart,ts,js,nextjs,nodejs,express,androidstudio,supabase,arduino,html,css,mysql,mongodb,react,tailwind,bootstrap,php,laravel,py,vscode,git,postman&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
 🌟 **Public Repositories**: 14
