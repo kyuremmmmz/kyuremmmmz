@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Het there! 👋
 
 I'm **Christian David Batrina Jasmin**, a student freelancer specializing in integrating real-time websites and mobile applications. I'm an aspiring software developer, eager to learn and grow in the tech world!
 
