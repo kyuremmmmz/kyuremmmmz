@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm **Christian David Batrina Jasmin**, a software engineer specializing in integrating real-time websites and mobile applications. I'm an aspiring software developer, eager to learn and grow in the tech world!
+I'm **Christian David Batrina Jasmin**, a software engineer specializing in integrating real-time websites and mobile applications.
 
 ## About Me
 
