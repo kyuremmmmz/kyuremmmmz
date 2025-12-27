@@ -8,7 +8,7 @@ Based in **Quezon City, Philippines**, I currently work at **GGH Software**. Wit
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,css,html,java,git,docker,graphql,aws,postgres,mongodb,linux,nodejs,nextjs,supabase,postman,laravel,express,py,php,firebase,spring,fastapi,mysql,react,next.js,redis&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,css,html,java,git,docker,graphql,aws,postgres,mongodb,linux,nodejs,nextjs,supabase,postman,laravel,express,py,php,firebase,spring,fastapi,mysql,react,redis&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
