@@ -1,34 +1,21 @@
-## Hi there! 👋
 
-I'm **Christian David Batrina Jasmin**, a Software Engineer specializing in integrating real-time websites and mobile applications. 🚀
+# 💻 Tech Stack:
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kyuremmmmz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kyuremmmmz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kyuremmmmz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kyuremmmmz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-Based in **Quezon City, Philippines**, I currently work at **GGH Software**. With a focus on creating dynamic and engaging applications, I thrive on transforming ideas into reality. My journey in software development is fueled by my enthusiasm for technology and a commitment to continuous learning.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Skills & Technologies
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kyuremmmmz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,css,html,java,js,ts,tailwind,prisma,git,docker,graphql,aws,postgres,mongodb,linux,nodejs,nextjs,supabase,postman,laravel,express,py,php,firebase,spring,fastapi,mysql,react,redis&perline=8)](https://skillicons.dev)
+---
+[![](https://komarev.com/ghpvc/?username=kyuremmmmz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Top Projects
-
-
-
-
-
-
-
-## GitHub Stats
-🌟 **Public Repositories:** 26  
-👥 **Followers:** 27  
-👤 **Following:** 19  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyuremmmmz&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuremmmmz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Latest Blog Posts
-
-Check out my blog for insights and tutorials at [Next.js Portfolio](https://nextjs-portfolio-5ald.vercel.app/)!
-
-## Connect with Me
-
-<a href="https://www.facebook.com/kiri.shiro.1" target="_blank" rel="noopener noreferrer"><Icon /> Facebook</a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
